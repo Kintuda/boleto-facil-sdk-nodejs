@@ -1,0 +1,25 @@
+{
+    "status": 200,
+    "data": {
+        "data": {
+            "charges": [
+                {
+                    "code": 30278239,
+                    "reference": "",
+                    "dueDate": "09/04/2019",
+                    "checkoutUrl": "https://sandbox.boletobancario.com/boletofacil/checkout/68E166708AFBBE98CA9B033BE6E3Dwoiqes41298k2mhg2ABF8DF",
+                    "link": "https://sandbox.boletobancario.com/boletofacil/charge/boleto.pdf?token=427013:m:fc134ab6b12f9ca8ewqiou380148cc64f629ba5529a7bb6070c331ead41b5b0407",
+                    "installmentLink": "",
+                    "payNumber": "BOLETO TESTE - Não é válido para pagamento",
+                    "billetDetails": {
+                        "bankAccount": "0655/46480-8",
+                        "ourNumber": "176/30233239-7",
+                        "barcodeNumber": "34192225400000010001763027553970655464808000",
+                        "portfolio": "176"
+                    }
+                }
+            ]
+        },
+        "success": true
+    }
+}
